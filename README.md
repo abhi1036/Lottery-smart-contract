@@ -15,8 +15,6 @@ This is a simple **Lottery Smart Contract** built using Solidity. Participants c
 ## 📜 Smart Contract Code
 Check the [`Lottery.sol`](./Lottery.sol) file for the full code.
 
-## 📺 Demo Video
-[Watch the demo on LinkedIn](#) (Upload your video first, then add the link here)
 
 ## 💡 Improvements
 - Use **Chainlink VRF** for secure randomness
